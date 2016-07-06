@@ -1,14 +1,14 @@
-layout_spectrum: 0.6707963445223868
-typography_spectrum: 0.6157411625608802
+layout_spectrum: 0.7427926708478481
+typography_spectrum: 0.4926660852506757
 color:
-  brandStrength: 0.9391520926728845
-  lightness: 0.006925694644451141
-  saturation: 0.8859221986494958
-  rhythmicContrast: 0.9598171971738338
+  brandStrength: 0.8735794324893504
+  lightness: 0.5246382956393063
+  saturation: 0.2775061745196581
+  rhythmicContrast: 0.40331391664221883
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 name: Daniel Brenner
